@@ -2,7 +2,7 @@
   "name": "angular-morph",
   "version": "0.1.0",
   "description": "This directive is an attempt at packaging necessary transitions and properties that enable the reuse of visual elements through morphing.",
-  "main": "src/app.js",
+  "main": "./dist/angular-morph.js",
   "scripts": {
     "test": "./node_modules/karma/bin/karma start karma.conf.js --no-auto-watch --single-run --reporters=dots --browsers=PhantomJS"
   },
